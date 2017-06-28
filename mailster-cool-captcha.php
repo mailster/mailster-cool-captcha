@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: Mailster Cool Captcha
-Plugin URI: http://rxa.li/mailster?utm_campaign=wporg&utm_source=Mailster+Cool+Captcha+for+Forms
+Plugin URI: https://mailster.co/?utm_campaign=wporg&utm_source=Mailster+Cool+Captcha+for+Forms
 Description: Adds a Cool Captcha to your Mailster subscription forms
 Version: 1.0
-Author: revaxarts.com
+Author: EverPress
 Author URI: https://mailster.co
 Text Domain: mailster-coolcaptcha
 License: GPLv2 or later
