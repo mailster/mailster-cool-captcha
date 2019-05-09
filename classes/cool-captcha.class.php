@@ -66,7 +66,6 @@ class MailsterCoolCaptcha {
 
 		}
 		add_filter( 'mailster_form_fields', array( &$this, 'form_fields' ), 10, 3 );
-		add_filter( 'mailster_profile_fields', array( &$this, 'form_fields' ), 10, 3 );
 
 		add_filter( 'mailster_submit_errors', array( &$this, 'check_captcha_v1' ), 10, 1 );
 		add_filter( 'mailster_submit', array( &$this, 'check_captcha' ), 10, 1 );
@@ -207,7 +206,7 @@ class MailsterCoolCaptcha {
 			return $fields;
 		}
 
-		$offset = mailster_option( 'gdpr_forms' ) ? 2 : 1;
+		$offset = mailster_option( 'gdpr_forms' ) && isset( $fields['_gdpr'] ) ? 2 : 1;
 
 		$position = count( $fields ) - $offset;
 		$fields = array_slice( $fields, 0, $position, true ) +

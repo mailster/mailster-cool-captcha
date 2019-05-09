@@ -1,12 +1,12 @@
 === Mailster Cool Captcha ===
-Contributors: everpress, revaxarts
-Tags: mailster, form, forms, recaptcha, captcha, secure, revaxarts
+Contributors: everpress
+Tags: mailster, form, forms, recaptcha, captcha, secure
 Requires at least: 3.8
-Tested up to: 5.0
-Stable tag: 1.1
+Tested up to: 5.2
+Stable tag: 1.2
 License: GPLv2 or later
 Author: EverPress
-Author URI: https://mailster.co
+Author URI: https://everprees.co
 
 == Description ==
 
@@ -24,7 +24,12 @@ You may also try [Mailster reCaptcha™ for Forms](https://wordpress.org/plugins
 
 == Changelog ==
 
+= 1.2 =
+
+* fixed: Captcha is now below email address on unsubscribe page
+
 = 1.1 =
+
 * removed deprecated functions
 * fixed position if GDPR check box is enabled.
 
