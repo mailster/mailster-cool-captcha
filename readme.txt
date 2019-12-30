@@ -2,7 +2,7 @@
 Contributors: everpress
 Tags: mailster, form, forms, recaptcha, captcha, secure
 Requires at least: 3.8
-Tested up to: 5.2
+Tested up to: 5.3
 Stable tag: 1.2
 License: GPLv2 or later
 Author: EverPress
@@ -10,7 +10,7 @@ Author URI: https://everprees.co
 
 == Description ==
 
-> This Plugin requires [Mailster Newsletter Plugin for WordPress](https://mailster.co/?utm_campaign=wporg&utm_source=Mailster+Cool+Captcha+for+Forms)
+> This Plugin requires [Mailster Newsletter Plugin for WordPress](https://mailster.co/?utm_campaign=wporg&utm_source=Mailster+Cool+Captcha+for+Forms&utm_medium=readme)
 
 Adds a Cool Captcha to your Mailster subscription forms
 
@@ -37,7 +37,7 @@ You may also try [Mailster reCaptcha™ for Forms](https://wordpress.org/plugins
 
 * initial release
 
-== Additional Info One ==
+== Additional Info ==
 
-This Plugin requires [Mailster Newsletter Plugin for WordPress](https://mailster.co/?utm_campaign=wporg&utm_source=Mailster+Cool+Captcha+for+Forms)
+This Plugin requires [Mailster Newsletter Plugin for WordPress](https://mailster.co/?utm_campaign=wporg&utm_source=Mailster+Cool+Captcha+for+Forms&utm_medium=readme)
 
