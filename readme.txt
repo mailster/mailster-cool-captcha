@@ -6,7 +6,7 @@ Tested up to: 5.3
 Stable tag: 1.2
 License: GPLv2 or later
 Author: EverPress
-Author URI: https://everprees.co
+Author URI: https://everpress.co
 
 == Description ==
 
